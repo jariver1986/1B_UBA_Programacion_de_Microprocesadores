@@ -38,3 +38,8 @@ para ver con el visualizador de Gothub Pages se hace lo siguiente:
 Ve a GitHub > Settings > Pages.
 En Source, selecciona la rama gh-pages y guarda.
 hace click en el link que te aparece y podras ver la documentacion.
+
+
+![image](https://github.com/user-attachments/assets/c268f5ba-de04-4ef2-b6b6-48d8d4108e56)
+
+

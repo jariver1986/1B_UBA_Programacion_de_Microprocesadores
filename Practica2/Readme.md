@@ -19,13 +19,20 @@ Ventajas
 Codigo:
 
 delay_t myDelay;
+
 delayInit(&myDelay, 100); // Configurar un retardo de 100 ms
 
 while (1)
 {
+
     if (delayRead(&myDelay))
+    
     {
+    
         HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5); // Alternar LED
+    
     }
+    
 }
+
 Este método optimiza la eficiencia del microcontrolador al permitir multitarea sin necesidad de interrupciones.

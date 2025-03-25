@@ -4,10 +4,15 @@
 **Blibliografia y recursos**
 
 “The C Programming Language”, 2nd Ed. Kernighan & Ritchie.
+
 “Embedded C”. Michael J. Pont.  Pearson Education Ltd 2007.
+
 Noviello, C. (2017). Mastering STM32: A step-by-step guide to the most complete ARM Cortex-M platform, using a free and powerful development environment based on Eclipse and GCC. Leanpub. Disponible en http://leanpub.com/mastering-stm32
+
 “A Beginner's Guide to Designing Embedded System Applications on Arm Cortex-M Microcontrollers”. Lutenberg, Gomez, Pernia. Arm Education Media, 2022.
+
 Embedded Gurus (link).
+
 Lista embebidos32@googlegroups.com
 Compilador online: https://www.onlinegdb.com/online_c_compiler
 

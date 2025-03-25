@@ -16,6 +16,8 @@ Embedded Gurus (link).
 Lista embebidos32@googlegroups.com
 Compilador online: https://www.onlinegdb.com/online_c_compiler
 
+![image](https://github.com/user-attachments/assets/90e59a51-abbf-4592-a131-b98e7bb7b8f3)
+
 
 Descarga Doxygen desde: https://www.doxygen.nl/download.html
 

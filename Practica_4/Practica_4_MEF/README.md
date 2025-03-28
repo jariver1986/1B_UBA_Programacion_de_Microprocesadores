@@ -1,4 +1,5 @@
 # Práctica 4 - Anti-rebote con Máquina de Estados Finita (MEF)
+![image](https://github.com/user-attachments/assets/1110e428-d576-4b59-8dfc-e2f6867fc3a8)
 
 ##  Objetivo
 

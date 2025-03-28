@@ -1,12 +1,12 @@
-# 🧪 Práctica 4 - Anti-rebote con Máquina de Estados Finita (MEF)
+# Práctica 4 - Anti-rebote con Máquina de Estados Finita (MEF)
 
-## 🎯 Objetivo
+##  Objetivo
 
 Implementar una MEF (Máquina de Estados Finita) en lenguaje C sobre la placa **STM32F446RE** para gestionar el **anti-rebote por software** de un pulsador, encendiendo o apagando un LED en función de su estado.
 
 ---
 
-## ⚙️ Descripción del funcionamiento
+##  Descripción del funcionamiento
 
 - Se implementaron los estados:
   - `BUTTON_UP`  
@@ -20,7 +20,7 @@ Implementar una MEF (Máquina de Estados Finita) en lenguaje C sobre la placa **
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 - El manejo de la MEF se integró directamente en `main.c` para simplificar la arquitectura.
 - Se mantuvo modularizada la lógica de retardos en:
@@ -29,7 +29,7 @@ Implementar una MEF (Máquina de Estados Finita) en lenguaje C sobre la placa **
 
 ---
 
-## 🔍 Variables claves para depuración
+##  Variables claves para depuración
 
 - `estadoActual` → indica el estado de la MEF.
 - `teclaPresionada` → se activa con flanco descendente.
@@ -37,7 +37,7 @@ Implementar una MEF (Máquina de Estados Finita) en lenguaje C sobre la placa **
 
 ---
 
-## 📌 Consideraciones
+##  Consideraciones
 
 - No se usó interrupción para el botón; se lee mediante sondeo periódico.
 - La UART fue inicializada pero no utilizada en esta práctica.
@@ -48,7 +48,7 @@ Implementar una MEF (Máquina de Estados Finita) en lenguaje C sobre la placa **
 
 ---
 
-## ✅ Estado del proyecto
+##  Estado del proyecto
 
-🟢 Funcionamiento verificado:  
+ Funcionamiento verificado:  
 Presionar el botón enciende el LED. Soltarlo lo apaga. No se presentan falsos positivos por rebote mecánico.

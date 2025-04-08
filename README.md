@@ -65,4 +65,8 @@ hace click en el link que te aparece y podras ver la documentacion.
 
 ![image](https://github.com/user-attachments/assets/850e8e74-be7e-47b0-9f2e-78e10dfc3673)
 
+Practica con SD
+https://github.com/eziya/STM32_SPI_SDCARD/tree/master
+
+
 

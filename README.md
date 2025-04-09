@@ -71,6 +71,8 @@ https://github.com/eziya/STM32_SPI_SDCARD/tree/master
 
 https://www.youtube.com/watch?v=aqSNz26Cuio&t=221s
 
+https://www.youtube.com/watch?v=PBIm8BCnbyQ
+
 https://www.micropeta.com/video29
 
 

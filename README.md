@@ -75,13 +75,24 @@ https://www.youtube.com/watch?v=PBIm8BCnbyQ
 
 https://www.micropeta.com/video29
 
-
+## SPI2
 
 ![image](https://github.com/user-attachments/assets/155110f3-8792-4f95-8577-567e9e0a2d4b)
 
 ![image](https://github.com/user-attachments/assets/d281e0c0-dd5d-4a2e-8e6c-34ec6802ec51)
 
 ![image](https://github.com/user-attachments/assets/a6618323-59cd-4aa0-9c01-dccc437f0b99)
+
+![image](https://github.com/user-attachments/assets/efe60ee1-9fb2-4732-964b-657edfe9c824)
+
+![image](https://github.com/user-attachments/assets/3f246b1d-4be3-44a3-9f1a-a09ff981019b)
+
+
+
+
+
+
+
 
 
 

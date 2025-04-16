@@ -85,6 +85,8 @@ https://www.micropeta.com/video29
 
 ![image](https://github.com/user-attachments/assets/a6618323-59cd-4aa0-9c01-dccc437f0b99)
 
+![image](https://github.com/user-attachments/assets/efe60ee1-9fb2-4732-964b-657edfe9c824)
+
 ```c
 /* USER CODE BEGIN Header */
 /**
@@ -251,16 +253,23 @@ DRESULT USER_ioctl (
 #endif /* _USE_IOCTL == 1 */
 ```
 
-
-![image](https://github.com/user-attachments/assets/efe60ee1-9fb2-4732-964b-657edfe9c824)
-
 ![image](https://github.com/user-attachments/assets/3f246b1d-4be3-44a3-9f1a-a09ff981019b)
 
 ![image](https://github.com/user-attachments/assets/51011b88-8037-4c93-9301-cec1dbae79ac)
 
+## I2C COnfigurations Non - DMA
 
+![image](https://github.com/user-attachments/assets/6e2e907c-9721-4786-9f08-b8cac91205d1)
 
+![image](https://github.com/user-attachments/assets/3c5a945d-5240-46f3-8c3f-e3b3e1ea99c7)
 
+![image](https://github.com/user-attachments/assets/04a6028f-333e-46f2-9760-29f4f221cc5a)
+
+![image](https://github.com/user-attachments/assets/aad67831-ac9f-40bc-93e3-6e74d849f376)
+
+![image](https://github.com/user-attachments/assets/c9abcc5a-7dd8-424f-8822-212532fb66ff)
+
+![image](https://github.com/user-attachments/assets/cfa55beb-13e4-4174-8aa4-c63609398c35)
 
 
 

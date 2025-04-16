@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=PBIm8BCnbyQ
 
 https://www.micropeta.com/video29
 
-## SPI2 pero tiene nombre SPI1
+## SPI2 pero tiene nombre SPI1 - Para practica con Micro SD Adapter
 
 ![image](https://github.com/user-attachments/assets/6fd3944e-6918-4266-b9e3-c79d5b1882fe)
 

@@ -257,7 +257,7 @@ DRESULT USER_ioctl (
 
 ![image](https://github.com/user-attachments/assets/51011b88-8037-4c93-9301-cec1dbae79ac)
 
-## I2C COnfigurations Non - DMA
+## I2C settings Non - DMA
 
 ![image](https://github.com/user-attachments/assets/6e2e907c-9721-4786-9f08-b8cac91205d1)
 

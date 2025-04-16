@@ -257,7 +257,7 @@ DRESULT USER_ioctl (
 
 ![image](https://github.com/user-attachments/assets/51011b88-8037-4c93-9301-cec1dbae79ac)
 
-## I2C settings Non - DMA
+## I2C settings Non - DMA to MPU6050 sensor
 
 ![image](https://github.com/user-attachments/assets/6e2e907c-9721-4786-9f08-b8cac91205d1)
 
@@ -270,6 +270,14 @@ DRESULT USER_ioctl (
 ![image](https://github.com/user-attachments/assets/c9abcc5a-7dd8-424f-8822-212532fb66ff)
 
 ![image](https://github.com/user-attachments/assets/cfa55beb-13e4-4174-8aa4-c63609398c35)
+
+## SPI1 settings using ADXL345 Non HAL
+
+![image](https://github.com/user-attachments/assets/9395e6eb-231c-4aea-847b-c8122b5f54d2)
+
+![image](https://github.com/user-attachments/assets/d5191247-661b-4686-9e02-4e86341a467a)
+
+![image](https://github.com/user-attachments/assets/fb27ca40-c2e4-4d87-a4f3-d01475fefe0b)
 
 
 

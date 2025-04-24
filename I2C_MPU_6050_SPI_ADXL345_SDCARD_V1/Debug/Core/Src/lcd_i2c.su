@@ -1,0 +1,7 @@
+../Core/Src/lcd_i2c.c:13:13:LCD_Delay	8	static
+../Core/Src/lcd_i2c.c:17:6:LCD_Init	16	static
+../Core/Src/lcd_i2c.c:34:6:LCD_SendCommand	16	static
+../Core/Src/lcd_i2c.c:39:6:LCD_SendData	16	static
+../Core/Src/lcd_i2c.c:44:6:LCD_SendString	16	static
+../Core/Src/lcd_i2c.c:50:13:LCD_SendNibble	24	static
+../Core/Src/lcd_i2c.c:58:13:LCD_SendInternal	24	static

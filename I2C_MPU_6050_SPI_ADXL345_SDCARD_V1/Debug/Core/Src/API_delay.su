@@ -1,0 +1,7 @@
+../Core/Src/API_delay.c:12:13:incrementarContador	4	static
+../Core/Src/API_delay.c:26:6:delayInit	16	static
+../Core/Src/API_delay.c:47:8:delayRead	16	static
+../Core/Src/API_delay.c:76:6:delayWrite	16	static
+../Core/Src/API_delay.c:91:8:delayIsRunning	16	static
+../Core/Src/API_delay.c:103:10:delayGetCompletedCount	4	static
+../Core/Src/API_delay.c:114:6:delayResetCompletedCount	4	static
